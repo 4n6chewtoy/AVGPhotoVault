@@ -1,5 +1,5 @@
 # AVGPhotoVault
-A python script to decrypt media files encrypted using the Android application 'AVG Antivirus'. Will identify PIN / pattern used. (https://play.google.com/store/apps/details?id=com.antivirus&hl=en_GB&gl=US). Original Blog Post: *************.
+A python script to decrypt media files encrypted using the Android application 'AVG Antivirus'. Will identify PIN / pattern used. (https://play.google.com/store/apps/details?id=com.antivirus&hl=en_GB&gl=US). Original Blog Post: https://theincidentalchewtoy.wordpress.com/2022/02/23/decrypting-the-avg-photo-vault/.
 
 AVG primarily known as an Antivirus solution bundles together some other useful features to '_Keep your personal data safe with App Lock_' and Photo Vault. Photovault is a free feature within AVG for Android but is limited to 10 items, the upgraded version will provide less limitations.
 
